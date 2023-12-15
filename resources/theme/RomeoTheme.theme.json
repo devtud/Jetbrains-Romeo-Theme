@@ -1,0 +1,11 @@
+{
+  "name": "Romeo-Theme",
+  "author": "Devesis",
+  "dark": true,
+  "editorScheme": "/Romeo-Theme.xml",
+  "ui": {
+    "*": {
+      "background": "#2b2d30"
+    }
+  }
+}
